@@ -1,4 +1,7 @@
 # BraudeTimetabler - As will be presented at Reversim Summit 2018 
+https://summit2018.reversim.com/speaker/5ae87ecdf397710014af8dfb
+
+
 
 *Developed by On & Mey
 
