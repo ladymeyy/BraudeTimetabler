@@ -13,12 +13,11 @@ but the one thing I hated the most was planning my semester timetable.
 The usual practice was to assemble my timetable manually : 
 1. I chose one group of each course class-type (lecture/tutorial/lab/other) available:
 
-BraudeTimetabler/ReadMeEssentials/coursesList.png
-
+<img width="401" alt="courseslist" src="https://user-images.githubusercontent.com/19207742/44143386-2d28ef12-a08c-11e8-89f3-d4e82f84a7d0.png">
 
  2. I inserted the chosen groups into an empty timetable and checked if it answered my needs and constraints.       If it didn't i’d try again and again until I managed to find a good timetable. 
 
-BraudeTimetabler/ReadMeEssentials/timeTableExample.png
+<img width="639" alt="timetableexample" src="https://user-images.githubusercontent.com/19207742/44143510-9f872cae-a08c-11e8-8fa6-2dbc4a92d19c.png">
 
 
 I wanted to assemble a timetable that fit certain constraints and needs I had such as: number of days off, a maximum gap of one hour between classes etc. therefore this is a constraint satisfaction problem.
@@ -66,4 +65,11 @@ Sometime having a “good enough” solution is more important than having the v
 Screenshots:
 ==============
 1. choose Courses from list: 
-BraudeTimetabler/ReadMeEssentials/timeTableScreenshot1.png
+ ![timetablescreenshot1](https://user-images.githubusercontent.com/19207742/44143542-c33c6f92-a08c-11e8-9c5d-40effedb0167.png)
+
+
+2. Choose constraints: 
+   ![chooseconstraintsscreenshot2](https://user-images.githubusercontent.com/19207742/44143560-db50f1c0-a08c-11e8-893f-5b390bfd52fd.png)
+
+3. get generated timeTables!! 
+   ![screenshot5](https://user-images.githubusercontent.com/19207742/44143612-05c97d6e-a08d-11e8-81e1-53952acbd126.png)
